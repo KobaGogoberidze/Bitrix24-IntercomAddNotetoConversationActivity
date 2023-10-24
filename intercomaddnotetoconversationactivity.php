@@ -6,9 +6,9 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) {
 
 use Bitrix\Bizproc\FieldType;
 use Bitrix\Main\Localization\Loc;
-use \Bitrix\Main\DI\ServiceLocator;
+use Bitrix\Main\DI\ServiceLocator;
 use Local\Exceptions\IntercomException;
-use \Bitrix\Bizproc\Activity\PropertiesDialog;
+use Bitrix\Bizproc\Activity\PropertiesDialog;
 
 class CBPIntercomAddNoteToConversationActivity extends CBPActivity
 {
