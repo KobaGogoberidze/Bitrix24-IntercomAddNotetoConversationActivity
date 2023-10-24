@@ -1,0 +1,6 @@
+<?
+$MESS["INTERCOM_ANTC_CONVERSATION_ID_FIELD"] = "Conversation Id";
+$MESS["INTERCOM_ANTC_ADMIN_ID_FIELD"] = "Admin Id";
+$MESS["INTERCOM_ANTC_NOTE_FIELD"] = "Note";
+$MESS["INTERCOM_ANTC_FIELD_NOT_SPECIFIED"] = "The \"#FIELD_NAME#\" field is not specified.";
+$MESS["INTERCOM_ANTC_UNABLE_TO_LOCATE_INTERCOM_SERVICE"] = "Unable to locate Intercom service.";
